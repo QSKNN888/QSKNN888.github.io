@@ -2,7 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.qsknn.top/2021/01/09/%E6%95%99%E7%A8%8B-Win10%E7%B3%BB%E7%BB%9F%E4%B8%8B%EF%BC%8C%E4%BD%BF%E7%94%A8hexo%EF%BC%885.3.0%EF%BC%89+Github%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</loc>
+    <loc>https://www.qsknn.top/2021/02/05/%E6%95%99%E7%A8%8B-Markdown%E7%9A%84%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/</loc>
+    
+    <lastmod>2021-03-16</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.qsknn.top/2021/03/16/%E5%B0%8F%E6%95%85%E4%BA%8B-%E6%9D%9C%E9%AA%97%E5%A5%87%E9%97%BB/</loc>
+    
+    <lastmod>2021-03-16</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.qsknn.top/2021/03/16/%E5%B0%8F%E6%95%85%E4%BA%8B-%E9%AC%BC%E6%95%85%E4%BA%8B/</loc>
     
     <lastmod>2021-03-16</lastmod>
     
@@ -16,7 +30,7 @@
   </url>
   
   <url>
-    <loc>https://www.qsknn.top/2021/02/05/%E6%95%99%E7%A8%8B-Markdown%E7%9A%84%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/</loc>
+    <loc>https://www.qsknn.top/2021/01/09/%E6%95%99%E7%A8%8B-Win10%E7%B3%BB%E7%BB%9F%E4%B8%8B%EF%BC%8C%E4%BD%BF%E7%94%A8hexo%EF%BC%885.3.0%EF%BC%89+Github%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</loc>
     
     <lastmod>2021-03-16</lastmod>
     
@@ -179,6 +193,20 @@
 
   
   <url>
+    <loc>https://www.qsknn.top/tags/%E6%9D%9C%E9%AA%97%E5%A5%87%E9%97%BB/</loc>
+    <lastmod>2021-03-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.qsknn.top/tags/%E9%AC%BC%E6%95%85%E4%BA%8B/</loc>
+    <lastmod>2021-03-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.qsknn.top/tags/%E6%96%87%E5%8C%96/</loc>
     <lastmod>2021-03-16</lastmod>
     <changefreq>daily</changefreq>
@@ -221,6 +249,13 @@
   </url>
   
 
+  
+  <url>
+    <loc>https://www.qsknn.top/categories/%E5%B0%8F%E6%95%85%E4%BA%8B/</loc>
+    <lastmod>2021-03-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
   
   <url>
     <loc>https://www.qsknn.top/categories/%E5%B0%8F%E7%9F%A5%E8%AF%86/</loc>
